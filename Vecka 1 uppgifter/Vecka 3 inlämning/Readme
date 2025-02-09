@@ -1,0 +1,19 @@
+# Hangman Spel
+
+Detta är ett klassiskt Hangman-spel skrivet i Python. Spelet låter spelaren gissa ett ord bokstav för bokstav. För varje felaktig gissning minskas antalet liv, och spelet avslutas när alla liv är slut eller när ordet är gissat korrekt.
+
+## Funktioner
+
+- Spelaren ombeds att gissa en bokstav i taget.
+- För varje felaktig gissning minskas liv med 1.
+- Felaktiga gissningar visas i en lista.
+- När spelaren gissar ordet korrekt visas det fullständiga ordet.
+- Om alla liv förbrukas utan att ordet gissas, avslutas spelet.
+
+## Installation
+
+1. Klona eller ladda ner detta projekt till din dator.
+2. Se till att Python är installerat på din maskin (Python 3.x rekommenderas).
+3. Navigera till projektmappen i terminalen och kör spelet med följande kommando:
+
+   python hangman.py

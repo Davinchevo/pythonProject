@@ -1,0 +1,21 @@
+
+### **.gitignore**
+
+```gitignore
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
