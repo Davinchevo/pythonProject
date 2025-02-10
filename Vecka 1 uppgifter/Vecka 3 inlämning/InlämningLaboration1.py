@@ -35,3 +35,6 @@ list_of_characters = list(hangman_word)
 dict_of_stars = {"*": "*" * len(hangman_word)}  
 
 hangman()
+
+#Test
+#Test2
